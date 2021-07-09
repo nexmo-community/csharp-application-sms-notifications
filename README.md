@@ -1,6 +1,6 @@
 # NotificationsUsingVonage
 
-To run this application, follow the steps outlined below: -
+To run this application, follow the steps outlined below:-
 
 1. Locate the .sln file and double click to open it in any editor (preferably Visual Studio 2019)
 2. Assuming you already have a Vonage account, check your API key and API secret values
