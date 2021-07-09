@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Quartz;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,6 +23,7 @@ namespace NotificationUsingVonage
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddQuartz(typeof(NotificationJob));
             services.AddControllersWithViews();
         }
 
@@ -41,6 +43,9 @@ namespace NotificationUsingVonage
             app.UseRouting();
 
             app.UseAuthorization();
+
+            var scheduler = app.ApplicationServices.GetService<IScheduler>();
+            CustomJobScheduler.ScheduleJob(scheduler);
 
             app.UseEndpoints(endpoints =>
             {

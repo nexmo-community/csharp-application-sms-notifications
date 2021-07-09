@@ -4,4 +4,11 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.12.0" />
+    <PackageReference Include="Quartz" Version="3.3.2" />
+    <PackageReference Include="System.Management" Version="5.0.0" />
+    <PackageReference Include="Vonage" Version="5.9.0" />
+  </ItemGroup>
+
 </Project>
