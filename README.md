@@ -3,6 +3,7 @@
 This repository contains the following projects:
 
 NotificationsUsingVonage - 101
+
 NotificationsUsingVonage
 
 While the first one i.e., "NotificationsUsingVonage - 101" is just a starter project with minimal features, the NotificationsUsingVonage project contains all features discussed in the article such as capturing CPU and Memory usage information and sending text messages using Vonage API if the pre-defined threshold has been reached.
