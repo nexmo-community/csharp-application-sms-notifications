@@ -1,0 +1,109 @@
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NLog.config
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\appsettings.Development.json
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\appsettings.json
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.exe
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.deps.json
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.runtimeconfig.json
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.runtimeconfig.dev.json
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\ref\NotificationUsingVonage.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.pdb
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.Views.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.Views.pdb
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\jose-jwt.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NLog.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\Quartz.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\System.CodeDom.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\System.ComponentModel.Composition.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\System.Management.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\Vonage.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.AssemblyInfoInputs.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.AssemblyInfo.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.csproj.CoreCompileInputs.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.MvcApplicationPartsAssemblyInfo.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.RazorAssemblyInfo.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.RazorAssemblyInfo.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\staticwebassets\NotificationUsingVonage.StaticWebAssets.Manifest.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\staticwebassets\NotificationUsingVonage.StaticWebAssets.xml
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\scopedcss\bundle\NotificationUsingVonage.styles.css
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.TagHelpers.input.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.TagHelpers.output.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.RazorCoreGenerate.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.RazorTargetAssemblyInfo.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.RazorTargetAssemblyInfo.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.Views.pdb
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.csproj.CopyComplete
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\ref\NotificationUsingVonage.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.pdb
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\NotificationUsingVonage\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.genruntimeconfig.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NLog.config
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\appsettings.Development.json
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\appsettings.json
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.exe
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.deps.json
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.runtimeconfig.json
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.runtimeconfig.dev.json
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\ref\NotificationUsingVonage.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.pdb
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.Views.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NotificationUsingVonage.Views.pdb
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\jose-jwt.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NLog.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\Quartz.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\System.CodeDom.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\System.ComponentModel.Composition.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\System.Management.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\Vonage.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.csproj.AssemblyReference.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.AssemblyInfoInputs.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.AssemblyInfo.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.csproj.CoreCompileInputs.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.MvcApplicationPartsAssemblyInfo.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.RazorAssemblyInfo.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.RazorAssemblyInfo.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\staticwebassets\NotificationUsingVonage.StaticWebAssets.Manifest.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\staticwebassets\NotificationUsingVonage.StaticWebAssets.xml
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\scopedcss\bundle\NotificationUsingVonage.styles.css
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.TagHelpers.input.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.TagHelpers.output.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.RazorCoreGenerate.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.RazorTargetAssemblyInfo.cache
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.RazorTargetAssemblyInfo.cs
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.Views.pdb
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.csproj.CopyComplete
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\ref\NotificationUsingVonage.dll
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.pdb
+C:\Workarea\Important Files and Folders\Articles\Vonage\Source\Notifications on App Performance\NotificationUsingVonage\obj\Debug\net5.0\NotificationUsingVonage.genruntimeconfig.cache
