@@ -1,6 +1,13 @@
 # NotificationsUsingVonage
 
-To run this application, follow the steps outlined below:-
+This repository contains the following projects:
+
+NotificationsUsingVonage - 101
+NotificationsUsingVonage
+
+While the first one i.e., "NotificationsUsingVonage - 101" is just a starter project with minimal features, the NotificationsUsingVonage project contains all features discussed in the article such as capturing CPU and Memory usage information and sending text messages using Vonage API if the pre-defined threshold has been reached.
+
+To run the NotificationsUsingVonage application, follow the steps outlined below:-
 
 1. Locate the .sln file and double click to open it in any editor (preferably Visual Studio 2019)
 2. Assuming you already have a Vonage account, check your API key and API secret values
