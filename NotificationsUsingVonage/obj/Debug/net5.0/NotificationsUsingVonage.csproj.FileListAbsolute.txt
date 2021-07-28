@@ -106,4 +106,3 @@ C:\Workarea\Important Files and Folders\Articles\Vonage\Source\SMS on App Perfor
 C:\Workarea\Important Files and Folders\Articles\Vonage\Source\SMS on App Performance\NotificationsUsingVonage\obj\Debug\net5.0\ref\NotificationsUsingVonage.dll
 C:\Workarea\Important Files and Folders\Articles\Vonage\Source\SMS on App Performance\NotificationsUsingVonage\obj\Debug\net5.0\NotificationsUsingVonage.pdb
 C:\Workarea\Important Files and Folders\Articles\Vonage\Source\SMS on App Performance\NotificationsUsingVonage\obj\Debug\net5.0\NotificationsUsingVonage.genruntimeconfig.cache
-C:\Workarea\Important Files and Folders\Articles\Vonage\Source\SMS on App Performance\NotificationsUsingVonage\obj\Debug\net5.0\NotificationsUsingVonage.csproj.AssemblyReference.cache
