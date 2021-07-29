@@ -31,8 +31,10 @@ namespace NotificationsUsingVonage
         {
             bool isMemoryUsageHigh = false;
             bool isCPUUsageHigh = false;
-
-            var memoryUsage = Math.Round(PerformanceHelper.GetMemoryUsageInPercentage(), 2);
+            
+            var keyValuePairs = PerformanceHelper.GetMemoryUsageInfo();
+            
+            var memoryUsage = Math.Round(keyValuePairs["Total_Used_Memory_Percentage"], 2);
             var cpuUsage = Math.Round(PerformanceHelper.GetCPUUsageInPercentage(), 2);
 
             var memoryThreshold = Configuration["Memory_Threshold"];
@@ -46,11 +48,20 @@ namespace NotificationsUsingVonage
             {
                 isCPUUsageHigh = true;
             }
-
+            
             if (isMemoryUsageHigh)
-                SendTextMessage(string.Format("Alert!!! Memory Usage: {0}", memoryUsage));
+            {
+                string memoryConsumptionAlertMessage = string.Format($"Alert!!! Memory Usage: " +
+                $"{keyValuePairs["Total_Used_Memory"]} GB " +
+                $"/ {keyValuePairs["Total_Visible_Memory"]} GB");
+                SendTextMessage(memoryConsumptionAlertMessage);
+            }                
+            
             if (isCPUUsageHigh)
-                SendTextMessage(string.Format("Alert!!! CPU Usage: {0}", cpuUsage));
+            {
+                string cpuConsumptionAlertMessage = string.Format("Alert!!! CPU Usage: {0}", cpuUsage);
+                SendTextMessage(cpuConsumptionAlertMessage);
+            } 
 
             await Task.CompletedTask;
         }

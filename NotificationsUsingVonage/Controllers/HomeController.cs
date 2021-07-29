@@ -1,10 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using NotificationsUsingVonage.Models;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace NotificationsUsingVonage.Controllers
@@ -12,14 +9,17 @@ namespace NotificationsUsingVonage.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly NotificationManager _notificationManager;
+        public HomeController(ILogger<HomeController> logger, 
+            NotificationManager notificationManager)
         {
             _logger = logger;
+            _notificationManager = notificationManager;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
+            await _notificationManager.SendNotification();
             return View();
         }
 
