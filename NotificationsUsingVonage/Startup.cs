@@ -46,7 +46,7 @@ namespace NotificationsUsingVonage
             app.UseAuthorization();
 
             var scheduler = app.ApplicationServices.GetService<IScheduler>();
-            //CustomJobScheduler.ScheduleJob(scheduler);
+            CustomJobScheduler.ScheduleJob(scheduler);
 
             app.UseEndpoints(endpoints =>
             {

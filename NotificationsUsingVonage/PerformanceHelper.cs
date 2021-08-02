@@ -51,7 +51,7 @@ namespace NotificationsUsingVonage
                 resourceConsumptionResults.Add("Free_Physical_Memory", totalFreeMemory);
             }
 
-            double totalVisibleMemorySize = Math.Round(resourceConsumptionResults["Total_Visible_Memory"] / (1024 * 1024), 2);            
+            double totalVisibleMemorySize = Math.Round(resourceConsumptionResults["Total_Visible_Memory"] / (1024 * 1024), 2);
             double freePhysicalMemory = Math.Round(resourceConsumptionResults["Free_Physical_Memory"] / (1024 * 1024), 2);
             double totalUsedMemory = totalVisibleMemorySize - freePhysicalMemory;
             double memory_usage = 0;
